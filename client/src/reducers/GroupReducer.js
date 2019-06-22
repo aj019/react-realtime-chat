@@ -28,5 +28,5 @@ export default function(state = initialState, action) {
     default:
       break;
   }
-  return initialState;
+  return state;
 }
